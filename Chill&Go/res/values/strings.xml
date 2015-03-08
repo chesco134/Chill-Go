@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chill&amp;Go</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pregunta">¿Por qué lo detuvieron?</string>
+    <string name="articulos_pruena">Artículos 24, 25, 26 y 27 de la Ley de Cultura Cívica del DF.</string>
+    <string name="url_prueba">http://mexico.justicia.com/estados/df/leyes/ley-de-cultura-civica-del-distrito-federal/</string>
+    <string name="que_procede">¿Qué Procede?</string>
+    <string name="captura_tus_datos">Captura tus datos</string>
+
+</resources>
