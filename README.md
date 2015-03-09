@@ -1,0 +1,2 @@
+# Chill-Go
+Éste proyecto es una aplicación móvil que ayuda a las personas a saber qué hacer en caso de que un policía los detenga, esto en pro de una mejor información acerca de sus derechos y de los artículos que marcan la Constitución Política de los Estados Unidos Mexicanos y el código civil del Distrito Federal. Lo anterior para contribuir con una cultura de acceso a los datos, de forma práctica.
